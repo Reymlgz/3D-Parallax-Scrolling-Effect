@@ -1,5 +1,5 @@
 # 3D-Parallax-Scrolling-Effect
-This repository contains a sample web page with a stunning 3D parallax scrolling effect implemented using HTML, CSS and JS.
+A sample web page with a stunning 3D parallax scrolling effect implemented using HTML, CSS and JS.
 
 # Demo
 A live demo of the effect can be found [here.]([https://](https://scrolling-effect.pages.dev/))
