@@ -8,7 +8,7 @@ A live demo of the effect can be found [here.]([https://](https://scrolling-effe
 To get started, simply clone or download the repository to your local machine:
 
 ```
-git clone https://github.com/username/3D-Parallax-Scrolling-Effect.git
+git clone https://github.com/Reymlgz/3D-Parallax-Scrolling-Effect.git
 ```
 Then, open the index.html file in your preferred web browser to view the 3D parallax scrolling effect in action.
 
